@@ -1,6 +1,6 @@
 #include "mbed.h"
 
-// Initialize a pins to perform analog input and digital output fucntions
+// Initialize a pins to perform analog input and digital output functions
 AnalogIn   loudness(A0);
 AnalogIn   lumin(A1);
 DigitalOut dout(LED1);
